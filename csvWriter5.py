@@ -40,7 +40,7 @@ Example usage2:
 '''
 
 ###############################################################
-#Beginning of module.
+#Beginning of program.
 ###############################################################
     
 
@@ -221,7 +221,7 @@ def inputFileParse(textDataString, outPutLoc, separateResidues):
    return 
        
 ####################################################################
-#End of module.
+#End of program.
 ####################################################################
 
 separateResidues = False
